@@ -1,6 +1,8 @@
 # 国家珍贵古籍名录
 
-- 国家珍贵古籍名录 <https://www.nlc.cn/pcab/gjml/>
+- 国家珍贵古籍名录（共1-6批） [:link:](https://www.nlc.cn/pcab/gjml/)
+- 国家珍贵古籍名录知识库（2023年2月8日上线） [:link:](https://rarebib.pkudh.org/) [:link:](http://gjml.nlc.cn/)
+- 国家珍贵古籍名录数据库（2018年9月28日上线）[:link:](https://gjpcpt.nlc.cn/nlcab/public!mlSearch.action)
 
 **相关资料**
 
